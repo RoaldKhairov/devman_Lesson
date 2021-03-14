@@ -1,6 +1,6 @@
 from PIL import Image
 
-image = Image.open("example.jpg")
+image = Image.open("monro.jpg")
 image = image.convert("RGB")
 
 red, green, blue = image.split()
