@@ -1,2 +1,2 @@
 # devman_Lesson
-*Уроки с сайта devman*
+*Проекты с сайта devman*
